@@ -1,0 +1,424 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning-piece discharged: or, Certain intelligence communicated to His Excellencie the Lord General Cromvvel, with all the real and cordial officers and souldiers under his command. Wherein the present tempers of each society of people in this Commonwealth, under each degree or notion whatsoever, are inserted and controverted, in relation to the election of a new representative. As also, a brief and full parallel betwixt the history of Israel and our late and present series of affairs. In which simile, our present general is compar'd with Moses, as he was their deliverer, judge, and general. By John Spittlehouse, a late member of the Army.</title>
+            <author>Spittlehouse, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93704</idno>
+            <idno type="STC">Wing S5016</idno>
+            <idno type="STC">Thomason E697_11</idno>
+            <idno type="STC">ESTC R203634</idno>
+            <idno type="EEBO-CITATION">99863520</idno>
+            <idno type="PROQUEST">99863520</idno>
+            <idno type="VID">166528</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93704)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166528)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E697[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning-piece discharged: or, Certain intelligence communicated to His Excellencie the Lord General Cromvvel, with all the real and cordial officers and souldiers under his command. Wherein the present tempers of each society of people in this Commonwealth, under each degree or notion whatsoever, are inserted and controverted, in relation to the election of a new representative. As also, a brief and full parallel betwixt the history of Israel and our late and present series of affairs. In which simile, our present general is compar'd with Moses, as he was their deliverer, judge, and general. By John Spittlehouse, a late member of the Army.</title>
+                  <author>Spittlehouse, John.</author>
+               </titleStmt>
+               <extent>[2], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Moone, at the seven Stars in Pauls Church-yard, neer the great north-door.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 19.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166528:1" rendition="simple:additions"/>
+            <p>A <hi>WARNING-PIECE</hi> DISCHARGED: OR, Certain Intelligence COMMUNICATED To His Excellencie the Lord General CROMVVEL, With all the real and cordial Officers and Souldiers under his Command.</p>
+            <p>Wherein the preſent tempers of each Society of People in this Commonwealth, under each Degree or Notion whatſoever, are inſerted and con<g ref="char:EOLhyphen"/>troverted, in relation to the election of a New REPRESENTATIVE.</p>
+            <p>
+               <hi>As alſo,</hi> A brief and full Parallel betwixt the Hiſtory of <hi>Iſrael</hi> and our late and preſent Series of Affairs.</p>
+            <p>In which Simile, Our preſent General is compar'd with <hi>Moſes,</hi> as he was their Deliverer, Judge, and General.</p>
+            <p>By <hi>John Spittlehouſe,</hi> a late member of the Army.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Moone,</hi> at the ſeven Stars in <hi>Pauls</hi> Church-yard, neer the great North-door. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166528:2"/>
+            <pb n="1" facs="tcp:166528:2"/>
+            <head>A Warning-piece DISCHARGED: Or, Certain Intelligence for his Excellencie the Lord General, with all the cordial Officers and Souldiers (of Jeſus Chriſt) under his Command, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>My Lord, and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving lien as it were <hi>Perdue</hi> ſince the 24 of <hi>April</hi> laſt, (that I publiſhed a Vindi<g ref="char:EOLhyphen"/>cation of your then-late thrice-noble acti<g ref="char:EOLhyphen"/>on in the diſſolution of the Parliament, ſo called) to the end I might either <hi>ſee</hi> or <hi>hear</hi> how the ſame would be reſented a<g ref="char:EOLhyphen"/>mongſt the generality of the people of this Commonwealth<g ref="char:punc">▪</g> as alſo to know the <hi>tem<g ref="char:EOLhyphen"/>pers</hi> of each Society of perſons in the ſame: And having now in ſome meaſure obtained ſuch my deſires,
+<pb n="2" facs="tcp:166528:3"/> I ſhall hereby preſume the boldneſs to communicate it to your Ho<g ref="char:EOLhyphen"/>nours, <hi>viz.</hi> the various Opinions and Judgements of the aforeſaid perſons (ſo far as they tend to the preſent purpoſe;) being digeſt<g ref="char:EOLhyphen"/>ed and diſtinguiſhed under each degree of Notion which the ſaid perſons do now bear in the Commonwealth: whereunto I have an<g ref="char:EOLhyphen"/>nexed ſome Animadverſions, for the clearer illuſtration of the ſame.</p>
+            <p>The Van of which perſons and opinions I ſhall preſent you with, are the <hi>Grand Royalliſts,</hi> commonly termed <hi>Cavaliers;</hi> who are a people (as far as I can poſſibly gather) that do very well reſent, that the Government of this Commonwealth ſhould be managed by thoſe perſons who have the preſent power in their hands; it being (ſay they) the moſt conducing to Reaſon, for that they have ſo gal<g ref="char:EOLhyphen"/>lantly fought and obtained what they now enjoy. 2. In that they think it impoſſible that worſe Governours ſhould ſucceed, then were laſt in poſſeſſion thereof, (as to the generality of them.)</p>
+            <p>Which, to my apprehenſion, appeareth to be an <hi>Heroick</hi> and <hi>gallant reſolution</hi> in the aforeſaid perſons; yea, <hi>ſo gallant,</hi> as that I fear there is not any other Notion of people in all the Common<g ref="char:EOLhyphen"/>wealth that doth parallel them, (as to ſuch a condeſcention) and for which their civil and diſcreet deportment, I judge them worthy of as much favour and reſpect from the preſent Governours, as with ſafety can be granted them; <hi>inaſmuch as from being the moſt turbulent enemy to the</hi> quondam-<hi>Parliament,</hi> &amp;c. <hi>they are now the moſt peaceable friends to our preſent Patriots.</hi>
+            </p>
+            <p>The ſecond ſort of Perſons and Parſons I ſhall communicate in<g ref="char:EOLhyphen"/>telligence from, are the <hi>Demy-Royalliſts</hi> of this Commonwealth, <hi>viz.</hi> the <hi>Clergie</hi> and <hi>Laytie</hi> of people under the Notion of <hi>Preſ<g ref="char:EOLhyphen"/>byterians:</hi> whom I ſo term, becauſe they are ſuch a ſort of people that would very gladly have a <hi>King,</hi> but to no other purpoſe, then that they might <hi>ride upon his back,</hi> as <hi>the old Strumpet their Mother</hi> doth yet upon the <hi>Beaſt,</hi> Rev. 17. 7. <hi>(viz.</hi> that he might be unto them in ſtead of an <hi>Aſs,</hi> to bear the title of <hi>Supremacie,</hi> but they themſelves <hi>The Power.)</hi> And this they do, in imitation of their elder ſiſter <hi>Prelacie,</hi> who in ſome meaſure had done the like before, as in preferring their own Titular Honours before ſuch perſons as had it really by deſcent; inſtance the <hi>Prelatical Cler<g ref="char:EOLhyphen"/>gie,</hi> who <hi>ranked</hi> the <hi>Lords Spiritual</hi> before the <hi>Lords Temporal,</hi>
+               <pb n="3" facs="tcp:166528:3"/> but durſt not attempt the ſame upon the <hi>King,</hi> but that he muſt be <hi>Supreme Head and Governour,</hi> both over things <hi>Spiritual,</hi> as well as <hi>Temporal.</hi> Which <hi>groſs preſumption</hi> and <hi>palpable con<g ref="char:EOLhyphen"/>tradiction,</hi> I do very much admire the <hi>Nobility</hi> and <hi>Gentry</hi> of the Prelatical party could endure, or be inſenſible of, had they ever looked upon <hi>Matth.</hi> 23. 8. and 1 <hi>Pet.</hi> 5. 3. which two places are very worthy the ſerious conſideration both of the <hi>Prelatical Lay<g ref="char:EOLhyphen"/>tie,</hi> as alſo the <hi>Presbyterian:</hi> for if they duely conſider the ſame, they will clearly ſee, that their aforeſaid <hi>idol-Prieſts</hi> ought not in the leaſt to aſſume any ſuch title unto them, no, not ſo much as of <hi>Rabbi,</hi> or <hi>Maſter;</hi> and that both by the command of Jeſus Chriſt, and the Apoſtle <hi>Peter</hi> himſelf, whom their <hi>old Mother-Harlot pleadeth ſucceſſion from;</hi> but I know not in what, un<g ref="char:EOLhyphen"/>leſs in imitation of the aforeſaid <hi>Peter</hi> in <hi>following his Ma<g ref="char:EOLhyphen"/>ſter afar off,</hi> Matth. 26. 58. or <hi>denying his Maſter three times,</hi> (viz.) 1. As he is <hi>Pope:</hi> 2. As he is a <hi>Prelate:</hi> And 3. As a <hi>Presbyter;</hi> the two later being lineally deſcended from him, as he is the <hi>Adulterer,</hi> or <hi>Man of ſin,</hi> 2 Tim. 2. 3. and like<g ref="char:EOLhyphen"/>wiſe of <hi>Papacie, Prelacie,</hi> and <hi>Presbytery,</hi> as the <hi>Adultereſs,</hi> or <hi>Mother of Harlots,</hi> as in <hi>Rev.</hi> 17. 5. ſo that the aforeſaid daughters are as well Harlots as their Mother, and that by una<g ref="char:EOLhyphen"/>voidable conſequence; as all that are rational muſt needs confeſs; as in the conſtitution and ordination both of their Church-mem<g ref="char:EOLhyphen"/>bers, and Church-Officers; <hi>viz.</hi> by Rantizing Infants, and ſo making National Churches; as alſo by making Prieſts<g ref="char:punc">▪</g> that are enjoyned to maintain and uphold the ſame: inſtance the Prelatical Service-book, and Presbyterian Directory; clear contrary to the precepts and practice of Jeſus Chriſt and his Apoſtles, as the Scri<g ref="char:EOLhyphen"/>ptures do clearly declare to all that have <hi>an eye to ſee,</hi> and <hi>an heart to underſtand.</hi>
+            </p>
+            <p>But ſuch of late hath been the craft and ſubtilty of the <hi>young Strumpet</hi> of <hi>Presbytery,</hi> that ſince ſhe perceived her ſelf to be taken notice of by her <hi>elder ſiſters cuſtomers,</hi> and that many of them began to be <hi>enamored of her</hi> (the other being <hi>grown ſtale)</hi> did in a very ſhort time <hi>grow ſo proud,</hi> as that ſhe could not brook her elder ſiſter to be in the <hi>Houſe</hi> with her, but endeavoured every day to get ground of her, by her <hi>Dalilah-</hi>like garb, whereby ſhe incenſed ſuch her lovers againſt her.</p>
+            <pb n="4" facs="tcp:166528:4"/>
+            <p>By means whereof, there grew a fierce and cruel conteſt betwixt the Clients of the daughters of the foreſaid old Bawd of <hi>Rome:</hi> but ſuch proved the event, that the younger Harlots Clients pre<g ref="char:EOLhyphen"/>vailed: which no ſooner done but ſhe her ſelf endeavoured the <hi>old trick</hi> of her predeceſſors, <hi>to advance her ſelf into their Saddle,</hi> by the ſame means, and to the ſame purpoſe; as by clawing her elder ſiſter's chief Supporter to become her favourite: but ſuch was his inclination, that albeit he could not preſerve his own <hi>Con<g ref="char:EOLhyphen"/>cubine</hi> from ruine, yet (had he not been prevented by a third per<g ref="char:EOLhyphen"/>ſon) he would have play'd his game ſo cunningly with her, as to have given her a fair fall.</p>
+            <p>My Lord and Gentlemen, I crave pardon for this digreſſion; which I took upon me, not that it doth any way concern you, but that I might (if poſſible<g ref="char:punc">▪</g> ſhame <hi>the people of God</hi> under the afore<g ref="char:EOLhyphen"/>ſaid Notions, out of the adulterous eſtate and condition they are in, and that they would now at length take notice of the many calls which they have had, out of that Antichriſtian or Babyloniſh condition, inaſmuch as it now more neerly concerns them then ever. But to the thing intended. <hi>viz.</hi>
+            </p>
+            <p>The aforeſaid <hi>Demy-Royalliſts</hi> as far as I can poſſibly diſcover, have not the leaſt reaſon to offer, why any that is under the Notion of a Presbyterian ought to have any hand in electing a new Re<g ref="char:EOLhyphen"/>preſentative, during the time that he adhereth in the leaſt meaſure to uphold that Hierarchie<g ref="char:punc">▪</g> either in its Conſtitution or Ordination, as aforeſaid: ſo that all they can ſay for themſelves, is onely to rail at me, as if I had wronged them by ſaying they had done their ut<g ref="char:EOLhyphen"/>termoſt endeavour to advance Monarchie again in this Common<g ref="char:EOLhyphen"/>wealth after the death of the late King. For (ſay they) had we done ſo, we could have raiſed half the Nation againſt the Army and their adherents.</p>
+            <p>
+               <hi>Reſp.</hi> And could you ſo, Mr <hi>Preſ-byte-er?</hi> Truely I muſt tell you, I think it was neither for want of affection or endeavours that you did it not; witneſs the private Juncto whereof your <hi>Love</hi>-ly Darling was both Secretary and Treaſurer, as he found to his coſt; as alſo by ſeveral other like endeavours, as is notoriouſly known by all that have in the leaſt taken notice of your deportments, both be<g ref="char:EOLhyphen"/>fore and ſince the death of the late King. Yea, I have that confi<g ref="char:EOLhyphen"/>dence
+<pb n="5" facs="tcp:166528:4"/> in you as you are <hi>the people of God,</hi> (though yet in <hi>Babylon,</hi> Rev. 18. 4.) that you have a conſcience that juſtifieth me in what<g ref="char:EOLhyphen"/>ever I ſaid of you in my late <hi>Vindication</hi> &amp;c.</p>
+            <p>It is therefore my earneſt requeſt, that you would reſt ſatisfied, and not expect the leaſt ſhare or intereſt in a new election of perſons to repreſent this Commonwealth, for the reaſons mentioned in that my aforeſaid <hi>Vindication,</hi> &amp;c. And ſo I leave you in the other ſenſe to ſtand or fall to your Maſter; onely this be aſſured that ſo long as you refuſe to come out of your preſent Babyloniſh conditi<g ref="char:EOLhyphen"/>on, you will yet more and more be made participants of her plagues; which I hope you either are, or ſhortly will be made ſenſible of: for, albeit (as the Prophet ſaith) you <hi>will not ſee;</hi> yet the time <hi>will come,</hi> yea and <hi>now is,</hi> that you <hi>ſhall ſee, and be aſhamed.</hi>
+            </p>
+            <p>The third ſort of perſons are certain members of Gathered Churches, (but I hope there are not many of them) and their ad<g ref="char:EOLhyphen"/>herents, <hi>viz.</hi> certain perſons under various Notions, which I ſhall at preſent forbear to particularize, inaſmuch as the Spirit of God is pleaſed to conclude them all under one general denomination, as in <hi>Revel.</hi> 9. from verſ. 1. to 12. they being the very perſons there mentioned, for that they have no more foundation in point of a ſetled or Church-like decencie or order of Religious Worſhip a<g ref="char:EOLhyphen"/>mongſt them, (albeit, in their own eſteem, Chriſtians in the higheſt degree that ever was) then the afore-mentioned <hi>pit</hi> hath a <hi>bottom.</hi>
+            </p>
+            <p>This ſmall hint I thought fit to declare, (by the by) to put them in minde of their preſent condition, to the end they may not be henceforth any longer high-minded, but may rather fear, inaſmuch as Satan can transform himſelf into an Angel of light; as alſo in that <hi>God is</hi> yet <hi>the God of order,</hi> and <hi>not of confuſion;</hi> as alſo in that it is a vain thing for them to think themſelves more ſpiritual then Jeſus Chriſt whilſt he had his abode on earth, who albeit it is ſaid of him, that <hi>he had the Spirit without meaſure,</hi> yet was he pleaſed to give preſidents and commands to ſuch as ſhould be his diſciples to believe and practiſe, as the doctrines of the Principles of Religion (which he termeth a foundation) mentioned in <hi>Heb.</hi> 6. and not to build themſelves as caſtles in the air, without the afore<g ref="char:EOLhyphen"/>ſaid foundation.</p>
+            <p>But inaſmuch as <hi>there is to every thing an appointed time,</hi> as
+<pb n="6" facs="tcp:166528:5"/> alſo inaſmuch as before the opening of the ſeventh Seal, there is to be a <hi>ſilence</hi> even <hi>in heaven</hi> it ſelf, <hi>for the ſpace of half an hour, Revel.</hi> 8. 1. as alſo in that <hi>all truth</hi> is not to be declared at <hi>all times;</hi> as alſo in that it is not prudence (as one faith) to follow it too neer the heels, leſt it ſhould prejudice the purſuer; I ſhall for<g ref="char:EOLhyphen"/>bear any further proſecution of their Opinions, as to a Spiritual re<g ref="char:EOLhyphen"/>lation. Onely this further, let them be ſure that the Scripture muſt be fulfilled, which ſaith, that the Beaſt which <hi>was,</hi> and <hi>is not,</hi> and <hi>yet is,</hi> ſhall go into predition, <hi>Rev.</hi> 17. 8. it being the eighth, and is of the ſeventh, and goeth into perdition, verſ. 11. But to the preſent buſineſs.</p>
+            <p>It is evident that many of the aforeſaid perſons are very unwil<g ref="char:EOLhyphen"/>ling to intruſt the preſent Governours with their Civil relations; their reaſons for which, I ſhall inſert firſt, in general terms, and af<g ref="char:EOLhyphen"/>terward in particular. To each of which, I ſhall return an an<g ref="char:EOLhyphen"/>ſwer. But leſt I ſhould fail to anſwer what they at preſent do, and alſo might ſay at the utmoſt in point of Objection, I ſhall (under favour) aſſume the boldneſs to plead the caſe in their behalf, ſo far as it is poſſible for them to do; as by theſe following Aſſer<g ref="char:EOLhyphen"/>tions, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> 1. That ſince the death of the late King, all the <hi>Civil</hi> and <hi>Military</hi> powers of the Nation ought of right to have had their <hi>recourſe</hi> to their firſt <hi>ubi, viz.</hi> to the perſons who firſt in<g ref="char:EOLhyphen"/>truſted him to make uſe thereof for their ſafety and welfare; which when he had violated the truſt they ſo repoſed in him, they took him from it, as a <hi>Malefactor.</hi>
+            </p>
+            <p>2. That the aforeſaid perſons are part of the men that have contributed all their aſſiſtance towards the proſecution there<g ref="char:EOLhyphen"/>of; ſo that they think themſelves injured, in that they are not per<g ref="char:EOLhyphen"/>mitted to have an equal ſhare of the priviledges that do now ac<g ref="char:EOLhyphen"/>crue thereby, being diſappointed thereof by ſome perſon or perſons who have aſſumed the ſame unto themſelves, without their conſent or approbation, and, for ought they can perceive, do ſtill reſolve to retain and diſpoſe thereof, according to their own wills and plea<g ref="char:EOLhyphen"/>ſures.</p>
+            <p>
+               <hi>Reſp.</hi> In Inſwer to theſe your Aſſertions, I ſhall oppoſe the ſtory of <hi>Iſrael</hi>'s deliverance from their Egyptian bondage: in which Si<g ref="char:EOLhyphen"/>mile, I ſhall compare our preſent General to <hi>Moſes.</hi>
+            </p>
+            <pb n="7" facs="tcp:166528:5"/>
+            <p>
+               <hi>Object.</hi> That parallel cannot agree, inaſmuch as the afore<g ref="char:EOLhyphen"/>ſaid deſign was managed by <hi>Moſes</hi> only, whereas all men know that we have had ſeveral other Generals before the preſent Gener<g ref="char:EOLhyphen"/>al; yea, ſuch as he hath been commanded by. Again, victories are properly aſcribed to him who commandeth in chief, and there<g ref="char:EOLhyphen"/>fore ſuch victories are not to be applyed to him.</p>
+            <p>
+               <hi>Reſp.</hi> I appeal to any knowing man, friend or enemy, whether the Lord hath not honored our preſent General with treble vi<g ref="char:EOLhyphen"/>ctories to any one Champion before him whatſoever? (Not that I go about to flatter the preſent General, or in the leaſt to derogate from the worth and valor of the other, but only that I would ſin<g ref="char:EOLhyphen"/>gle him forth, as the daughters of <hi>Iſrael</hi> did <hi>David</hi> from <hi>Saul;</hi> in which ſenſe, I am confident I may truly aſcribe him his ten thou<g ref="char:EOLhyphen"/>ſand for the others thouſand.) For beſides all his memorable victo<g ref="char:EOLhyphen"/>ries, as in his conqueſt of <hi>Ireland</hi> and <hi>Scotland</hi> in general, had not he the chief hand in all the former and latter ones in <hi>Eng<g ref="char:EOLhyphen"/>land?</hi>
+            </p>
+            <p>Where can you almoſt name any one conſiderable victory, where he bore not the Bell from all the field beſides? for the truth where of, I appeal as aforeſaid, in that I abhor to flatter the man, as much as he can to be flattered; but meerly as there is a con<g ref="char:EOLhyphen"/>ſtraint upon mee, in relation to that I have taken upon me to make good; <hi>viz. That our preſent General ought to be eſteemed the ſame to us as Moſes to the Iſraelites, as he was their Deliver<g ref="char:EOLhyphen"/>er, Judge and General.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> We do acknowledg that God hath made him very in<g ref="char:EOLhyphen"/>ſtrumental, in turning of the great wheel of Providence, but not to be compared with <hi>Moſes;</hi> for he was immediately ſent from God with direction, both what he was to ſay and do before his brethren the Iſraelites, as alſo in the ſight of <hi>Pharoah</hi> King of E<g ref="char:EOLhyphen"/>gypt.</p>
+            <p>
+               <hi>Anſw.</hi> Pray ſhew me where the Lord did acquaint <hi>Moſes</hi> be<g ref="char:EOLhyphen"/>forehand, with any more then three ſignes of all which he was to ſhew before the aforeſaid perſons? <hi>which if you cannot,</hi> then it muſt needs follow, that <hi>Moſes</hi> himſelf was led as much in the dark, in the management of that great tranſaction, as our preſent General hath been in that which hath paſſed through his hands, during the whole Series of the war, and the counter-change that
+<pb n="8" facs="tcp:166528:6"/> hath happened therein, whether in relation to Church or State.</p>
+            <p>
+               <hi>Object.</hi> It is cleer that the Lord told <hi>Moſes,</hi> that he intended to ſmite <hi>Egypt</hi> with all his wonders.</p>
+            <p>
+               <hi>Reſp.</hi> But did he particularize any more then three? can you conceive that <hi>Moſes</hi> did plainly know of the plague of Frogs, be<g ref="char:EOLhyphen"/>fore the plague of turning the water into blood was over? Or of the plague of Lice, before the plague of Frogs was over? Or of the plague of Flies, before the plague of Lice was over? Or of the murrain of Beaſts, before the plague of Flies was over? And ſo conſequently of all the inſuing plagues.</p>
+            <p>Again, after the death of the firſt born, can it be in reaſon im<g ref="char:EOLhyphen"/>agined that <hi>Moſes</hi> knew he was to divide the Sea, when they were purſued by <hi>Pharoah,</hi> or that he had knowledge thereof, untill he had ſent up his ejaculatory prayers to heaven for a ſpeedy deliverance from the imminent danger they were then in? <hi>Exod.</hi> 14. 15. Durſt he advance forward untill the Lord commanded him? was it not in his minde to have them ſtand ſtill, yea, did he not command them ſo to do?</p>
+            <p>
+               <hi>Object.</hi> Doubtleſs <hi>Moſes</hi> would not have commanded them to ſtand ſtill, but that he had ſome fore-knowledge that the Lord would deliver them, as the following words of that verſe do de<g ref="char:EOLhyphen"/>clare; for he doth not only <hi>bid them ſtand ſtill but biddeth them that they ſhould not fear, and they ſhould ſee the ſalvation of the Lord, which he would ſhew unto them that day: for,</hi> (ſaith he,) <hi>the Egyptians which ye have ſeen to day<g ref="char:punc">▪</g> ye ſhall ſee them again no more for ever.</hi> The Lord will fight for you, (ſaith he) and ye ſhall hold your peace.</p>
+            <p>
+               <hi>Reſp.</hi> All that can be collected from that his expreſſion, is that the Lord had in ſome ſmall meaſure given him ſatisfaction that he would help them in that their perplexity, that he that had brought them ſo far, would not now leave them or forſake them; but that he would work ſome wonderful deliverance for them: But what it was, or how it ſhould be effected, certainly he did not know: For had <hi>Moſes</hi> known the manner of their deliverance, he would not have bid them ſtand ſtill, but rather have bid them march forwards, which he did not do untill the Lord had ſo or<g ref="char:EOLhyphen"/>dered him; as alſo what he was to do, and what ſhould be the effect thereof.</p>
+            <pb n="9" facs="tcp:166528:6"/>
+            <p>Again, after that their miraculous deliverance, who can con<g ref="char:EOLhyphen"/>ceive that <hi>Moſes</hi> knew either how he ſhould either feed or cloath ſo great a multitude, for the ſpace of forty years in the wilder<g ref="char:EOLhyphen"/>neſs?</p>
+            <p>Again, was he not conſtrained to cry unto the Lord at <hi>Marah,</hi> where the water was ſo bitter that they could not drink it? did he then know how to ſweeten the ſame, until he was ſhewed a tree which ſhould effect it?</p>
+            <p>Again, when they wanted bread, did <hi>Moſes</hi> know beforehand how to furniſh them, untill the Lord had told him he would rain them down bread from heaven, as alſo in relation to fleſh?</p>
+            <p>Again, when they wanted water at <hi>Rephidim, Chap.</hi> 17. did <hi>Moſes</hi> know before-hand what to do in that caſe? no certainly, for then he would not have concealed the ſame ſo long as he did, <hi>(viz)</hi> untill he had been like to have been ſtoned by the people: but contrariwiſe it is manifeſt that he was again neceſſitated to cry unto the Lord, and to ask him what he ſhould do in that great ſtrait. And is it not there ſaid, that the Lord directed him (after he had ſo prayed) what he ſhould do?</p>
+            <p>
+               <hi>Queſt.</hi> What will you infer from what you have ſaid?</p>
+            <p>
+               <hi>Reſp.</hi> That <hi>Moſes</hi> was altogether as ignorant of Gods intend<g ref="char:EOLhyphen"/>ed proceedings in that enterpriſe he had then in hand, as our pre<g ref="char:EOLhyphen"/>ſent General hath been in the management of thoſe things he hath been carried forth to do, which I am confident hath been far be<g ref="char:EOLhyphen"/>yond his firſt thoughts, or imaginations. Yea, I do verily believe, that had our preſent General known before-hand the ſeveral trou<g ref="char:EOLhyphen"/>bles and hardſhips he hath paſſed, he would have been as hardly perſwaded to have undertook the ſame, as <hi>Moſes</hi> in the caſe a<g ref="char:EOLhyphen"/>foreſaid; he would not eaſily have been perſwaded to have pur<g ref="char:EOLhyphen"/>chaſed his honor at ſo dear a rate, eſpecially had he known he ſhould have been envied for ſuch his honor being ſo obtained.</p>
+            <p>So that the Lord hath been moſt evidently ſeen in carrying forth our preſent General through all the difficulties, wherein many have formerly fainted &amp; lagged, becauſe they could not ſee to the end of the Lords intentions, in his great work, which he hath done ſince they left off, and is yet to do; which thing hath alſo been the cauſe of all the murmurings at the apparent hand of Providence in ſever<g ref="char:EOLhyphen"/>al particulars: as at the expulſion of the 11 Members; the ſecond
+<pb n="10" facs="tcp:166528:7"/> purge of the Parliament; the bringing of the King to juſtice; and now the late diſſolution of the Parliament.</p>
+            <p>And therefore under God we are the moſt ingaged to the pre<g ref="char:EOLhyphen"/>ſent General of all the men in the Nation, becauſe the Lord hath e<g ref="char:EOLhyphen"/>very way fitted him with the ſtrength, courage and valor of the a<g ref="char:EOLhyphen"/>foreſaid <hi>Moſes;</hi> in that, I ſay, it hath not been in the leaſt abated, but hath rather been renewed, as the Eagle at the caſting of her bill; <hi>(viz.)</hi> at every of the aforeſaid changes, (notwithſtanding the ſeveral deſertions and murmurings as aforeſaid) to the praiſe of the Lord of Hoſts be it ſpoken: ſo that by the good hand of God upon him, he hath born us up as it were upon the wings of an Ea<g ref="char:EOLhyphen"/>gle, and hath been unto us as the good ſhepherd that feedeth his flock in green paſtures, by the waters of comfort.</p>
+            <p>Even he, I ſay, hath (under God) been <hi>the chief man,</hi> that hath with the aforeſaid <hi>Moſes,</hi> taken us from under the power of our Egyptian <hi>Pharaoh,</hi> and from the iron furnace of Tyrannie, and from the Brick-kilns of <hi>Papacy, Prelacy &amp; Preſbytery,</hi> thoſe <hi>three dayes journey,</hi> to ſerve the Lord in our preſent wilderneſs-conditi<g ref="char:EOLhyphen"/>on; he it is (I ſay, <hi>&amp;c.)</hi> that hath brought deſtruction upon our <hi>Pharaoh,</hi> and all his hoſt and that hath led us through the red ſea of a bloody war, which we have by Providence paſſed, and in which our aforeſaid <hi>Pharaoh</hi> and all his hoſt have been deſtroy<g ref="char:EOLhyphen"/>ed. He it is, I ſay, that with <hi>David</hi> hath pluckt us out of the claws and paws of the Lyon and the Bear, <hi>(viz)</hi> from tyranny and ſp<g ref="char:EOLhyphen"/>ritual idolatry, which we were ſubject unto; as alſo from the late boſome-vipers which with <hi>Paul</hi> he hath ſhaked off his hand into the fire, where they have periſhed with the faggot out of which they aroſe<g ref="char:punc">▪</g> which neither he nor we did once think there had been ſuch danger in. He it is that hath conquered our <hi>Sihon</hi> King of the <hi>Amorites,</hi> and <hi>Og<g ref="char:punc">▪</g>
+               </hi> the King of <hi>Baſhan, (viz) Charles</hi> the firſt as King of <hi>England. Scotland</hi> and <hi>Ireland;</hi> and <hi>Charles</hi> the ſecond, as King of <hi>Scotland.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> To what purpoſe have you cull'd out theſe expreſſions?</p>
+            <p>
+               <hi>Anſw.</hi> To the end all the cordial members of this Common<g ref="char:EOLhyphen"/>wealth may henceforth look upon our preſent General, as the afore<g ref="char:EOLhyphen"/>ſaid Iſraelites did upon <hi>Moſes.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> As how?</p>
+            <p>
+               <hi>Reſp.</hi> As the chief Ruler appointed by God over us.</p>
+            <pb n="11" facs="tcp:166528:7"/>
+            <p>
+               <hi>Obj. Moſes</hi> did not uſurp Authority over his brethren.</p>
+            <p>
+               <hi>Reſp.</hi> Pray ſhew me where or when <hi>Moſes</hi> received either Commiſſion or Honour from the aforeſaid people of <hi>Iſrael,</hi> either as he was their Deliverer, General, or Judge.</p>
+            <p>
+               <hi>Object.</hi> It muſt needs be acknowledged that <hi>Moſes</hi> received not his Commiſſion from the Commonwealth of <hi>Iſrael,</hi> in any of the aforeſaid reſpects: but he received the ſame immediately from God; which the preſent General hath not.</p>
+            <p>
+               <hi>Reſp.</hi> From whom hath our preſent General the Authority and Power he doth exerciſe? hath he it from Man, or from God?</p>
+            <p>
+               <hi>Object.</hi> We cannot ſay he hath he it from Man; for that he can<g ref="char:EOLhyphen"/>not have, until it be given him by a new Repreſentative.</p>
+            <p>
+               <hi>Reſp.</hi> If he have it not from Man (as you have truly ſaid he hath not) then it muſt conſequently follow, that he hath it from God, <hi>viz.</hi> by the hand of Providence, as had <hi>Moſes:</hi> ſo that, as I ſaid be<g ref="char:EOLhyphen"/>fore, we are now put into the ſame eſtate and condition with the aforeſaid Iſraelites in their wilderneſs-condition: and if ſo, can we ſay that the people of <hi>Iſrael</hi> did aſſume ſuch a power unto them<g ref="char:EOLhyphen"/>ſelves, as to turn <hi>Moſes</hi> out of that condition the Lord had ſo pla<g ref="char:EOLhyphen"/>ced him in, as you now thirſt to do? Did any of them I ſay<g ref="char:punc">▪</g> unleſs that enviovs <hi>Corah Dathan</hi> and <hi>Abiram</hi> with their accomplices, ever attempt ſuch <hi>Pride</hi> &amp; <hi>Arrogancie</hi> as in the leaſt to queſtion his then-Power and Authority over them, and which the Lord had been pleaſed to beſtow upon him? And what was the reward the Lord gave to the aforeſaid perſons for ſuch their inſolence? Read that ſtory therefore, &amp; conſider it ſeriouſly, I beſeech you<g ref="char:punc">▪</g> leſt you be found ſuch perſons as are riſen up out of that pit which ſwallowed them up for ſuch their preſumption or leſt the heavie wrath of God fall upon you as it did upon the foreſaid <hi>Corah</hi> &amp; his accomplices.</p>
+            <p>Again let the ſeveral other murmurings of the like ingrateful peo<g ref="char:EOLhyphen"/>ple be a warning to you leſt the like puniſhment befal you; leſt the Lords deſtroying Angel be ſent amongſt you: for be aſſured, <hi>the Lords hand is not ſhortned</hi> in point of Juſtice, more then in point of Mercy; for the like ſins will certainly produce the like puniſhments.</p>
+            <p>
+               <hi>Obj.</hi> To whom ſhould we appeal, in caſe of injuſtice <hi>&amp;c.</hi> if the General, &amp; ſo conſequently the Army aſſume ſtill the Supreme Pow<g ref="char:EOLhyphen"/>er &amp; Authority of the Nation unto themſelvs, as at preſent they do?</p>
+            <p>
+               <hi>Reſp.</hi> Have you any cauſe to complain of his or their preſent car<g ref="char:EOLhyphen"/>riage
+<pb n="12" facs="tcp:166528:8"/> towards you, ſince they ſo took the ſame upon them? if not, what cauſe have you to complain, either of him or them?</p>
+            <p>
+               <hi>Obj.</hi> He hath not dealt juſtly with us, in that hee hath uſurped our intereſt in the ſupream power, it being as properly our birth-right as his own, in that we have been found as faithfull and real through<g ref="char:EOLhyphen"/>out the whole Series of Affaires as himſelf.</p>
+            <p>
+               <hi>Reſp.</hi> Have you been more to him, then the <hi>Iſraelites</hi> were to <hi>Moſes?</hi> did not they as well aid and aſſiſt <hi>Moſes</hi> in that enterprize, as you have the preſent General? did <hi>Moſes</hi> fight the <hi>Amalekites</hi> alone? did not the <hi>Iſraelites</hi> aſſiſt him therein? And if ſo, what pri<g ref="char:EOLhyphen"/>viledge ought you to claime in the ſupream power more then they? Conſider ſeriouſly with your ſelves, I beſeech you, and ſee what you do in effect ſay leſs then (the aforeſaid <hi>Corah,</hi> &amp;c. <hi>viz.) Oliver Cromwell,</hi> thou haſt taken too much upon thee, inaſmuch as we ought to be equal ſharers with thee, &amp; the Councel which thou haſt choſen of thy own head without our conſent or approbation, who are as holy &amp; as much in favour with God as thy ſelf, it being our birth-right as well as thine own, inaſmuch as we have engaged our <hi>all</hi> as well as thee, or thoſe thou haſt taken unto thee as thy aſſiſt<g ref="char:EOLhyphen"/>ants. What if ſome of us were but the keepers of the ſtuff whilſt you fought the field? ought not we to have an equall ſhare of the ſpoil as well as your ſelves, <hi>viz.</hi> of all the benefits that have accrued by the victories you have attained? beſides<g ref="char:punc">▪</g> have not many of us ha<g ref="char:EOLhyphen"/>zarded our lives as well as your ſelvs in the high places of the field?</p>
+            <p>Again, what legal power haſt thou of thy ſelf, to do as thou doſt or haſt done ſince the death of the late King? was not all the Re<g ref="char:EOLhyphen"/>gall power cut off from the power from which thou hadſt thy power, by that one blow which ſeparated his head from his bo<g ref="char:EOLhyphen"/>dy? who had a juſt right after that blow to give thee a Commiſſion? or what Commiſſion haſt thou for the preſent, ſince thy late diſſo<g ref="char:EOLhyphen"/>lution of the Parliament? if thou haſt, who gave it thee, or when was it given thee? haſt thou not put thy ſelf in poſſeſſion of all the power of this Commonwealth meerly by thy ſtrong arm and long ſword? what then is this thou haſt thus taken upon thee, except thou intendeſt to make thy ſelf altogether a Prince or King over us? <hi>Numb.</hi> 16. 13.</p>
+            <p>
+               <hi>Reſp.</hi> Hearken and conſider, O ye ſtupid and ingrateful people! Are not theſe your preſent thoughts againſt the General? And if
+<pb n="13" facs="tcp:166528:8"/> ſo, hath he deſerved them at your hands? Have you been like minded hereto<g ref="char:EOLhyphen"/>fore? Have your hearts been formerly poſſeſt with ſuch prejudices towards him, whilſt ye were under the Egyptian <hi>Pharaoh,</hi> whilſt ye were ſuffering in the aforeſaid Iron-furnace, or labouring in the aforeſaid Brick-kilns, whilſt he was chiefly inſtrumental in working all the Miracles upon <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi> and all his ſervants and hoſt, whilſt he turned their Babyloniſh ſun of Monarchy into darkneſs, &amp; their moon of Church-Government into blood; whilſt he plucked their ſtars of Honor from their Orbs, and their planets from their Spheres; whilſt he was the inſtrument of God to ſtrike thorow Kings in the day of his wrath; whilſt he was as Judge amongſt the Heathen; whilſt he filled the places where he came with dead bodies; whilſt he woun<g ref="char:EOLhyphen"/>ded the heads over many countries; whilſt he trod upon the Lion and the Dragon, whilſt he trod the young Lion and Dragon under his feet, <hi>viz. Charles</hi> 1. and Prelacie, and <hi>Charles</hi> 2. and Presbytery; whilſt he brought you thorow the aforeſaid Red-ſea of blood; whilſt he went thorow the many ſtraits and hardſhips in <hi>England, Ireland,</hi> and <hi>Scotland;</hi> whilſt he was put to make his ſeveral addreſſes unto God by prayer &amp; ſupplication, in his many great ſtraits and hardſhips? was it ſo with you, I ſay<g ref="char:punc">▪</g> during thoſe times? Nay, was he not contrarywiſe looked upon by you as a Prince and Deliverer indeed? Did not you then court him <hi>at every turn</hi> with con<g ref="char:EOLhyphen"/>gratulatory Petitions, magnifying him beyond what I am confident he de<g ref="char:EOLhyphen"/>ſired from you? And is the caſe now ſo altered with you? How is it, I ſay, that you can harbour the leaſt jealouſie of ſuch a Noble perſon, who hath not ſpared to venter his deareſt blood, to bring you into the condition you are in, and which you ſo much deſired? Conſider ſeriouſly whether you have not juſt cauſe to repent of ſuch your fond imaginations, as to have the leaſt ſymptome of an evil conjecture of ſuch a right worthy Patriot? What can ſuch your vanity be compared unto except with the wanton carriage of the aforeſaid Iſraelites, who when the aforeſaid <hi>Moſes</hi> had put them into a condition of fulneſs, they preſently waxed fat, and <hi>(Jeſurun-</hi>like) kicked againſt the Lord and his ſervant <hi>Moſes.</hi>
+            </p>
+            <p>And what is the preſent General, that you ſhould murmur againſt him? is not your murmuring againſt God, who hath ſo honored him in the midſt of you, as your eyes have ſeen? yea, hath it not for a long ſeaſon been your daily complaint, that he was the only means of obſtructing the work of God, in that he had all the power in his hands &amp; might do what he would? were you not then offended he did not put his power in execution, as by diſplacing ſuch as were then in preſent power, and would not manage the ſame as you thought they ought and might have done? And are you now angry with him, that he hath done according to ſuch your deſires?</p>
+            <pb n="22" facs="tcp:166528:9"/>
+            <p>
+               <hi>Object.</hi> He might and ought to have acquainted us before he had done it and not to have done it ſo raſhly upon his own accord, without our pri<g ref="char:EOLhyphen"/>vity and conſent in the leaſt.</p>
+            <p>
+               <hi>Reſp.</hi> Were you not in ſuch haſte for the execution thereof, as that you ſeemed to think every day a year until it ſhould be done? witneſs all your ſeveral meetings at B. F. and elſewhere to haſten the execution thereof: and were you not by ſo doing in a great meaſure made agents in the ſame <hi>viz.</hi> by your many invocations to God, that he would give them courage and boldneſs, whom you deem'd fit inſtruments to accompliſh the ſame? but it ſeemeth your fingers would be dabling in every diſh, being neither well faſting nor full.</p>
+            <p>Hath not the honeſt man, think you ſomewhat to do with you that he is thus neceſſitated to take himſelf off from what he might otherwiſe have done by this time, to publiſh declaration after declaration, to give you ſa<g ref="char:EOLhyphen"/>tisfaction as to that he hath done? for otherwiſe what reaſon hath the con<g ref="char:EOLhyphen"/>queror to court the conquered into obedience? Are they to be looked up<g ref="char:EOLhyphen"/>on in any other qualification, <hi>(viz.</hi> in the condition they are in) then the mixed multitude that came along with the people of God out of <hi>Egypt? Such</hi> as are indeed in the Common-wealth, but not properly of the Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+            <p>
+               <hi>Object.</hi> We look upon him at preſent as a very honeſt and cordial man; but ſuch a place of <hi>ſingular eminency,</hi> as he hath now voluntarily taken upon him, will be a very great temptation unto him; for experience hath taught, that thoſe that were ſometimes famous for their Countrie, as the Earle of <hi>Strafford</hi> whilſt Sir <hi>Tho. Wentworth,</hi> whom when once poiſon<g ref="char:EOLhyphen"/>ed with the aforeſaid delicious bait of honor, became preſently as bad, as ever he was before good, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> And what of that? muſt therefore the Government lye deſtitute of governors, becauſe good men are ſubject to become evil by ſuch-like advancements? or would you therefore have no good perſons to under<g ref="char:EOLhyphen"/>take the preſent burthens of the Nation. Again? what degree of honor doth the honeſt man deſire more<g ref="char:punc">▪</g> then he hath formerly had from you? Nay, I am confident<g ref="char:punc">▪</g> would you call him Mr. <hi>Crumwel,</hi> or <hi>Oliver Crumwel</hi> Eſquire, he would not be offended with you.</p>
+            <p>Again, ſuppoſe this thrice-Noble Gentleman, (as he hath been the chief inſtrument under God of ſubduing or conquering. 1 <hi>England, 2 Ireland,</hi> and 3 <hi>Scotland;</hi> and hath now out of his deep affection towards the pub<g ref="char:EOLhyphen"/>lick good, ſo courteouſly taken your burthens upon his own ſhoulders) ſhould have refuſed ſo to have done, after he had diſſolved the late Parli<g ref="char:EOLhyphen"/>ament, <hi>&amp;c.</hi> what courſe would you have taken for the management of the ſame?</p>
+            <pb n="15" facs="tcp:166528:9"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Had he and the other ſecret Manigers of the aforeſaid A<g ref="char:EOLhyphen"/>ction, made us acquainted with what they intended to doe, wee could then have prepared a new Repreſentative, againſt thoſe then in preſent Power had gone out.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſpon. </seg>
+               </label> Indeed had they done ſo, they had ſhewed themſelves very excellent Statesmen indeed. O that Men are ſo ſtupid to ſpeake ſo abſurdly, and ridiculouſly, was it not cleare that the Actors for recruting a new Repreſentative was driving it on as furiouſly, as <hi>Jehu</hi> his Chariot, which when once fini<g ref="char:EOLhyphen"/>ſhed, and directions ſent for calling ſuch perſons whom they intended unto them, had it then been a fit time, thinke you, for the Generall to have publiſhed thoſe his intentions, to all the world, <hi>viz.</hi> as that on ſuch a day he intended to diſſolve the preſent Parliament, &amp;c. I wonder any wiſe Men can have ſuch fond imaginations, for by ſo doing you had been voted traytors every Man of you, before you could have accompliſhed your deſigne, and what would have been the event of ſuch an enterpriſe, if not another warre, I know not? In as much as they had ſo linked the Rabi Prieſts unto them by their continuation of their tythes, and the Lordly power they had given them to chooſe Paſtors, as they call them, as that doubtles they would not onely have fitted them with fit Members for their ſupply, but alſo have blowne the bellows of diſſention in every Pulpit, by magnifying the one<g ref="char:punc">▪</g> and ni<g ref="char:EOLhyphen"/>hilating the other, untill they had kindled another flame in the bowels of this Common-wealth, which how eaſily they might have done amongſt ſo much combuſtible matter, I leave to all rationall Men to judge.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Hee needed not to have done it ſo publickly as you ſpeak of, but privately to ſome few perſons.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſpon. </seg>
+               </label> And muſt not thoſe perſons have publiſhed it privately to others, untill all the reall party had been acquainted there<g ref="char:EOLhyphen"/>with; for why ſhould not all have been made privie there<g ref="char:EOLhyphen"/>unto as well as ſome, and that through <hi>England, Scotland,</hi> and <hi>Ireland?</hi> For if not all, why any, but ſuch as muſt of ne<g ref="char:EOLhyphen"/>ceſſitie, which was accordingly done. And therefore without diſpute, it was the onely wiſe courſe that could have been taken, had <hi>Seneca</hi> himſelfe been living, and had had a hand therein.</p>
+            <pb n="16" facs="tcp:166528:10"/>
+            <p>Againe, Suppoſe they had made you privie to ſuch their deſigne, what ſort of perſons would you have made choice of for the Management of the aforeſaid imployment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Such as wee were confident are both able and faithfull Men to the intereſt of the Common-wealth.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſpon. </seg>
+               </label> Doth not this your Anſwer ſecretly imply, that the per<g ref="char:EOLhyphen"/>ſons now in preſent Power, are neither faithfull nor able. And if ſuch be your conſtruction of them, are they not very much beholden to you for ſuch an Opinion, after ſuch their ſo long and ample demonſtrations of their reall and Cordiall affections towards you; but I hope better of you, though I thus ſpeake.</p>
+            <p>Againe; Did you judge them able and faithfull, why ſhould you not rather encourage them to goe forwards, then in the leaſt to diſhearten them; for can you have fitter perſons then able and faithfull Men to governe you.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Wee acknowledge we cannot, but by ſuffering ſuch per<g ref="char:EOLhyphen"/>ſons to govern us as at preſent, wee ſhall for ever be cut out of all our birth-rights; for not onely this Generall, but all that ſhall ſucceed him will claime the like priviledge <hi>ad infi<g ref="char:EOLhyphen"/>nitum.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſpon. </seg>
+               </label> Can you ſay the preſent Generall claimeth more power and authoritie then did <hi>Moſes;</hi> and was <hi>Moſes</hi> reputed by the <hi>Iſraelites</hi> as their King? No ſurely; for ſuch was the envious expreſſions and ſuggeſtions of <hi>Corah</hi> and his Rebellious Ac<g ref="char:EOLhyphen"/>complices; for otherwiſe hee was onely eſteemed as a Deli<g ref="char:EOLhyphen"/>verer, Captain, and Judge.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Had he not the ſame power as hath a King? </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſpon. </seg>
+               </label> No; for wee ſee there was a vaſt difference betwixt the Judges and Kings of <hi>Iſrael,</hi> as appeares by 1 <hi>Sam. Cap.</hi> 8. For <hi>Samuel</hi> telleth the <hi>Iſraelites</hi> there of no old matter or manner of Government, when he deſcribeth unto them the nature and qualities of the Kings of the Nations, whom the ſaid <hi>Iſraelites</hi> then thirſted to imitate. By which diſcourſe it ap<g ref="char:EOLhyphen"/>peareth that the Judge did not exact one tenth of the State or Power which the ſaid Kings claimed as their Prerogative Royall. Which the ſaid <hi>Iſraelites</hi> found to their coſt in <hi>Solo<g ref="char:EOLhyphen"/>mons</hi> dayes; as by wofull experience they told his ſonne <hi>Re<g ref="char:EOLhyphen"/>hoboam, 2 Chro. Cap.</hi> 10.</p>
+            <pb n="17" facs="tcp:166528:10"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Wherein conſiſted the chiefe difference betwixt <hi>Moſes</hi> and a King?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſpon. </seg>
+               </label> The Prophet <hi>Samuel</hi> telleth you in the aforeſaid Chapter, where when the <hi>Iſraelites</hi> had deſired a King to judge them (Mark) <hi>Like all the Nations,</hi> viz. <hi>the Heathen.</hi> Which muſt unavoydably be the Conſequent; for if <hi>Iſrael</hi> was the onely peculiar people of God, then all the reſt of the Nations muſt needs be Heathens (at that time when them words were ſpo<g ref="char:EOLhyphen"/>ken) the partition wall not being then broken downe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But wherein lay their ſin in deſiring of a King, <hi>like all the Nations?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſpond. </seg>
+               </label> In that by ſuch their deſires they did in effect forſake God, and become Heathen; as,</p>
+            <p n="1">1. In deſiring <hi>a King like all the Nations,</hi> was plainly to be<g ref="char:EOLhyphen"/>take themſelves to be governed by the Lawes of the Nations, and ſo conſequently in a deſperate manner to forſake the Law of God; and ſo conſequently God himſelfe; as in 1 <hi>Sam. 8. 7. &amp;</hi> 10. 19. And hence it was that the Lord to ſignifie his deteſtation to ſuch their deſires, inforceth them by his judgements to confeſſe, <hi>(and that before their King)</hi> that they had added to all their ſinnes this <hi>evill,</hi> to aske them <hi>a King, Cap.</hi> 12. 19.</p>
+            <p n="2">2. The evill of having <hi>a King like all the Nations,</hi> was to put themſelvs into the condition of the Nations, who were accu<g ref="char:EOLhyphen"/>ſtomed to attribute all their victories &amp; deliverances to their Kings (as the Scriptures doe plentifully declare) and that without aſcribing them in the leaſt to providence. And hence it was, that when they had a King, the Lord doth upbraid them for their Idolatrous humor to Monarchie, as in <hi>Hoſea</hi> 13. where he uſeth theſe expreſſions to the aforeſaid <hi>Iſrae<g ref="char:EOLhyphen"/>lites,</hi> viz. <hi>When Ephraim</hi> (ſaith he) <hi>ſpake trembling, he exalted himſelfe in Iſrael, but when he offended in Baal he dyed, &amp;c. Yet</hi> (ſaith he) <hi>I am the Lord thy God, from the Land of Aegypt, and thou ſhalt know no God but mee: for there is no Saviour beſides mee. I did know thee in the wilderneſſe, in the land of great drought. According to their paſture, ſo were they filled, they were filled, and their hearts were exalted; therefore have they forgot mee. There<g ref="char:EOLhyphen"/>fore will I be unto them as a Lyon, as a Leopard by the way will I obſerve them. I will meet them as a Bear that is bereaved of her
+<pb n="18" facs="tcp:166528:11"/> whelpes, and will rent the cowle of their heart, and there will I de<g ref="char:EOLhyphen"/>voure them like a Lyon; the wild beaſts ſhall tear them. O Iſrael, thou haſt deſtroyed thy ſelfe, but I will be thy help. I will be thy King; where is any other that may ſave thee in all thy Cities? And thy Judges of whom thou ſaidſt, Give mee a King and Princes. I gave thee a King in mine anger, and took him away in my wrath.</hi>
+            </p>
+            <p>For the fuller illuſtration of this, read 1 <hi>Sam. 8 &amp; 15. &amp; 16 Chapters,</hi> ſo that <hi>Iſrael</hi> is chiefly ſaid to have undone it ſelfe <hi>by asking a King to judge them like all the Nations or Hea<g ref="char:EOLhyphen"/>then.</hi>
+            </p>
+            <p n="3">3. The evill of having a King, &amp;c. was to change them from being the people of God to become Heathens, as to imi<g ref="char:EOLhyphen"/>tate them in all their licentious courſes, for certainly, <hi>a King like unto the Nations,</hi> muſt needs <hi>Act in all things according to the Kings of the Nations.</hi> Or otherwiſe, <hi>hee degenerateth from being ſuch a King;</hi> for to be like them is by imitating them, and not otherwiſe. And commonly where ſuch a King is, there will be like Subjects, without the great reſtraining power of God to prevent the ſame. So that the good Kings of <hi>Judah</hi> acted rather like Judges, then Kings; as by making the Lawes of God the rule and ſquare of all their actions. Whereas they that ruled, <hi>as did the Kings of the Nations, (viz.</hi> according to <hi>Samuels</hi> deſcription as aforeſaid) <hi>were all Idolaters, as were the Kings of the Nations.</hi> Yea it is evident that many of them in<g ref="char:EOLhyphen"/>deavoured as farre as in them lay, to out-ſtrip the Heathens in wickedneſſe; inſtance <hi>Manaſſeh,</hi> &amp;c. So that as I ſaid be<g ref="char:EOLhyphen"/>fore, the conſequence of <hi>deſiring to be ruled by Kings,</hi> is to de<g ref="char:EOLhyphen"/>ſire <hi>to be made Heathens.</hi> And that to <hi>all ends and purpoſes,</hi> which I deſire may for the future be ſeriouſly conſidered, both by the preſent perſons in Authoritie, leaſt they ſhould aſſume to be looked upon, or adored <hi>as Kings of the Nations,</hi> as alſo to prevent the like deſire for the future in ſuch our wanton and unadviſed <hi>Iſraelites,</hi> viz. thoſe of the prelaticall and Presbyterian judgements, who thinke that if they have not a King, they cannot be <hi>Al a mode-de frans</hi> &amp;c. as formerly they have been, to their coſt, and will be more if they perſiſt in the like rebellious thoughts againſt God, who is now ten<g ref="char:EOLhyphen"/>dering himſelfe to be their King, as he was to <hi>Iſrael</hi> in <hi>Moſes</hi> dayes, which ſhould they refuſe, the Lord will undoubtedly
+<pb n="19" facs="tcp:166528:11"/> bring ſeven worſe evills upon them, then hath yet befallen them; but a word to the wiſe is ſufficient; for they cannot but know, that whilſt the preſent Conſervators hath the leaſt cauſe of jealouſie, that they hanker after ſuch an hea<g ref="char:EOLhyphen"/>theniſh Idoll (as hath been cleerly proved) which they can judge no leſſe, whilſt each of the aforeſaid parties continueth vaſſals to, the two aforeſaid <hi>daughter Harlots of Prelacie and Presbyterie,</hi> as formerly mention'd) they cannot expect ey<g ref="char:EOLhyphen"/>ther to be made free denizens of this Common-wealth, but contrariwiſe to be eſteemed onely as hewers of wood, and drawers of water to the <hi>Iſrael</hi> or people of God, who abo<g ref="char:EOLhyphen"/>minate ſuch Heathen-like practiſes. Againe, neyther can they expect to be eaſed of their taxes and burdens which they ſeeme to groane under; which by abandoning: ſuch their Babyloniſh and Heatheniſh principles, they may eaſily pre<g ref="char:EOLhyphen"/>vent. But let mee tell them this one thing more, that they cannot deſert the one, unleſſe both; for the whore ſitteth ſo fall upon the back of the beaſt, that ſhe cannot be diſmoun<g ref="char:EOLhyphen"/>ted, but by the ruine of the beaſt, they being inſeperable Concomitants, as the Patrons thereof very well know when they ſaid; <hi>No Biſhop, no King,</hi> and now, <hi>No King, no Presby<g ref="char:EOLhyphen"/>terie.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> This your diſcourſe hath been ſome-what off from our preſent buſineſſe, howbeit very uſefull to ſuch as you have applyed it unto, whom indeed it properly concerns. But to begin where we left, we ſay you doe miſtake us; for all our aime is out of the intire affection that we have to the per<g ref="char:EOLhyphen"/>ſons in preſent Authority, to admoniſh them to beware, leſt they run themſelves into dangerous Temptations; leſt being lifted up with their honour, they forget what they have been, and ſo conſequently what have undertaken, and inga<g ref="char:EOLhyphen"/>ged themſelves to do.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſpond. </seg>
+               </label> Truly friends, if that be the ultimate of your deſires, I judge the preſent Conſervators of this Common-wealth are very much engaged unto you, for ſuch your friendly, and brother-like Admonition, there being much affection ex<g ref="char:EOLhyphen"/>preſſed in what you ſay, as can be uttered, as will thus ap<g ref="char:EOLhyphen"/>peare.</p>
+            <p>For what greater expreſſions of Affection can be made,
+<pb n="20" facs="tcp:166528:12"/> then for you to hazard both your bodies and ſoules, to pre<g ref="char:EOLhyphen"/>ſerve your friends from danger, which unavoidably you muſt doe, by taking the management of the Affaires of this pre<g ref="char:EOLhyphen"/>ſent <hi>Common wealth</hi> upon you; for the ſame danger which you are fearefull the preſent <hi>Conſervators</hi> are ſubject unto, the like will you, or ſuch your friends whom you would ſo in<g ref="char:EOLhyphen"/>truſt. Have you more excellent Armour of proof upon you, then thoſe in preſent power? Is there ſuch imminent danger in the preſent <hi>Patriots</hi> to be poyſoned with their preſent pre<g ref="char:EOLhyphen"/>ferment; and are you, or your friends ſuch <hi>Medridatuſes,</hi> as that it will have no ſuch operation upon your bodies? have they been ſo long accuſtomed thereunto? Are you fear<g ref="char:EOLhyphen"/>full that our preſent <hi>Patriots</hi> ſhould with the Fig-tree looſe its ſweetneſſe? or with the Olive-tree, its fatneſſe? or with the Vine, its Wine? and are you not poſſeſſed with the like feare in reference to your own ſelves?</p>
+            <p>Certainly friends, there muſt needs be a Snake lurking un<g ref="char:EOLhyphen"/>der theſe green herbs; there muſt needs be ſomething in ſuch your Expreſſions, more then you have a mind to diſcover at preſent. And truly you give mee ſome cauſe to thinke you would prove the bramble, or elſe you would certainly have greater care of your ſelves; and therefore let us ſearch out the truth of the matter. Conſider, I beſeech you, what you would undertake <hi>(viz.)</hi> a whole yeares temptation, rather then theſe in preſent power ſix weeks, for ſo <hi>J. W.</hi> the donor of the Mite, <hi>Alias,</hi> the Maſter of Sentences, would have it.</p>
+            <p>But good M<hi rend="sup">r</hi> 
+               <hi>J. W.</hi> deale really with me herein, for ſuch affection is like a black Swan upon Earth. Is it not becauſe you think the <hi>Table</hi> of this <hi>Common-wealth</hi> lyeth not levell e<g ref="char:EOLhyphen"/>nough for your deſired Comrades to play their game upon, which the removing of our preſent <hi>Conſervators</hi> you thinke would wholly effect. Or is it not out of an ambitious deſire to mount your ſelves into the great Horſe-ſaddle, becauſe you have been ſo long Keepers of the Stuffe. Or is it not be<g ref="char:EOLhyphen"/>cauſe you thinke your ſelves more able Pilots to guide the new rig'd Ship of this <hi>Common-wealth,</hi> betwixt the <hi>Scilla</hi> and <hi>Caribdis</hi> (of a tyrannicall <hi>Monarchy,</hi> and a Baby loniſh <hi>Hi<g ref="char:EOLhyphen"/>rarchie)</hi> then they that ſit now at the Stern. And if ſo, have they not great reaſon to look to themſelves, how they part
+<pb n="21" facs="tcp:166528:12"/> with the ſtaffe out of their hands? Certanely they may be juſtly as jealous of you, as you of them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> You force us to tell you in plain terms, we thinke the Ge<g ref="char:EOLhyphen"/>nerall hath taken more upon him then he is able to beare.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſpond. </seg>
+               </label> Hath he taken more upon him then <hi>Moſes</hi> did, before <hi>Ie<g ref="char:EOLhyphen"/>thro</hi> gave him counſell? Beſides, if he have, hath he not ta<g ref="char:EOLhyphen"/>ken unto him ten men that are both able and honeſt to his aſ<g ref="char:EOLhyphen"/>ſiſtance?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> I queſtion whether ten ſuch perſons be a competent num<g ref="char:EOLhyphen"/>ber to manage the preſent Affairs of this <hi>Common-wealth, viz.</hi> to receive and anſwer <hi>Adreſſes,</hi> heare and relieve <hi>Complaints,</hi> and do other things which may be juſt and requiſite for them to doe, untill about the firſt of <hi>Iune</hi> next, by which time an equall <hi>Repreſentative</hi> may be choſen.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſpond. </seg>
+               </label> Pray once more Mr. <hi>I. W.</hi> Are not the preſent tenne as competent a number as the ſeaven you mention in your laſt <hi>Querie,</hi> which you would have reſerved during the intervails of ſucceeding <hi>Repreſentatives.</hi>
+            </p>
+            <p>Againe, are the preſent <hi>Conſervators</hi> ſo little in your fa<g ref="char:EOLhyphen"/>vour, as not to be allowed by you the priviledg of the afore<g ref="char:EOLhyphen"/>ſaid ſeaven <hi>(viz.)</hi> to take in ſo many fit perſons as they ſhall have need of, when and where occaſion is offered: As alſo for ſuch a continuance as you have there preſcribed; but it ſeems you can afford your owne friends twelve moneths, but not above ſix weeks to thoſe in preſent power.</p>
+            <p>Againe, you thinke you have played the <hi>Man,</hi> albeit a <hi>Wilde</hi> one, by ſaying it is acknowledged by moſt Rationall men, that the power is primarily, and originally in the people, as in your Epiſtle, without (either there or elſe<g ref="char:EOLhyphen"/>where) expreſſing whom you meane by the people, ſave by ſome dubious Characters, as where you propound to conſi<g ref="char:EOLhyphen"/>deration, whether any Members of the late Parliament, Lawyers or parties intereſted in tythes befitting for choyſe, (as in your ſecond <hi>Querie)</hi> without expreſſing in the leaſt whom you meane by perſons intereſted in tythes <hi>(viz.)</hi> free Donors of tythes, or demanders of tythes, or both. And yet to conceipt that the three aforeſaid particulars, ſhould not only be divulged, but alſo controverted and decided, as alſo a new <hi>Repreſentative</hi> compleated in thirty ſix dayes,
+<pb n="22" facs="tcp:166528:13"/> ſignifies that you are either a very fleet man, or an envious man againſt our preſent <hi>Patriots.</hi>
+            </p>
+            <p>Againe Sir, Let me tell you, were you deputed to elect a conſiderable number of perſons to repreſent the <hi>Common<g ref="char:EOLhyphen"/>wealth,</hi> as aforeſaid; yea, and that you had your friend <hi>J L.</hi> ſent for to your aſſiſtance: I am aſſuredly confident, you could not finde ſuch perſons amongſt all your conſorts, as will parallel theſe ten in preſent Authority, <hi>for able and faith<g ref="char:EOLhyphen"/>full men:</hi> And what is further required by any rationall un<g ref="char:EOLhyphen"/>biaſſed men—But to begin where I ended <hi>(viz.)</hi> with my aforeſaid parallel of the preſent Generall to <hi>Moſes,</hi> in point of civill judicature.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> As to that wee reply; that ſhould the worſt come to the worſt, we have upon that account a priviledge to elect per<g ref="char:EOLhyphen"/>ſons, and to preſent them to our <hi>Moſes,</hi> if you will needs have him termed ſo.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſpond. </seg>
+               </label> Pray let us peruſe thoſe Texts of Scripture that relateth to that particular: And if we find it ſo, then I ſhall not in the leaſt contradict the ſame; and to this purpoſe wee will have recourſe to <hi>Exod.</hi> 18. from <hi>verſ.</hi> 13. to the laſt: Whence it is evident, that when <hi>Jethro</hi> ſaw the great toyle which <hi>Moſes</hi> had in judging of ſo great a multitude, he dehorteth him from continuing any longer in ſuch a condition; for remedy of which he preſcribeth his ſonne in law <hi>Moſes</hi> theſe following rules.</p>
+            <p>
+               <hi>Harken unto my voyce</hi> (ſaith <hi>Jethro) and I will give thee coun<g ref="char:EOLhyphen"/>ſell</hi> (verſ. 19.) <hi>and God ſhall be with thee. Be thou to the people to God ward, that thou maiſt bring the cauſes unto God: And thou ſhalt teach them Ordinances and lawes, and ſhalt ſhew them the way wherein they muſt walke, and the the worke that they muſt doe.</hi>
+            </p>
+            <p>
+               <hi>Moreover, thou ſhalt provide out of all the people, able men, ſuch as feare God, men of truth, hating covetouſneſſe: And place ſuch o<g ref="char:EOLhyphen"/>ver them to be rulers of thouſands, and rulers of hundreds, and ru<g ref="char:EOLhyphen"/>lers of tennes, and let them judge the people at all ſeaſons. And it ſhall be that every great matter they ſhall bring unto thee, but eve<g ref="char:EOLhyphen"/>ry ſmall matter they ſhall judge: ſo ſhall it be eaſier for thy ſelfe, and they that beare the burthen with thee.</hi>
+            </p>
+            <p>Whereupon <hi>verſ.</hi> 24. ſaith, that <hi>Moſes</hi> harkned to the voice of his Father in law, and did all that he had ſaid.</p>
+            <pb n="23" facs="tcp:166528:13"/>
+            <p>
+               <hi>And</hi> Moſes <hi>choſe able men out of all Iſrael, and made them heads over the people, Rulers of thouſands, Rulers of hundreds, Rulers of fifties, and Rulers of tennes, and they judged the people at all ſeaſons. The hard cauſes they brought unto</hi> Moſes, <hi>but every ſmall matter they judged themſelves.</hi>
+            </p>
+            <p>Now in all this it appears, that <hi>Moſes</hi> was to have the ele<g ref="char:EOLhyphen"/>ction of the aforeſaid people himſelfe, as alſo the ſole ma<g ref="char:EOLhyphen"/>nagement of all the circumſtances thereunto appertaining: And if ſo, where then will be your priviledg of electing men your ſelves.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> If you compare the former expreſſions with <hi>Deut. Cap.</hi> 1. 9. <hi>&amp;c.</hi> you will find that the people had a vote in the electi<g ref="char:EOLhyphen"/>ons, yea, and that by <hi>Moſes</hi> owne direction, as in <hi>verſ.</hi> 13. where he ſaith, <hi>Take yee wiſe men, and underſtanding and known amongſt your Tribes.</hi> Unto which his Propoſition he addeth alſo the anſwer of the people thereunto <hi>(viz.)</hi> that they did well recent the ſame, ſaying, <hi>The thing that thou haſt ſpoken is good for us to doe.</hi> So that undoubtedly they had the priviledg of election, and <hi>Moſes</hi> of approbation; as appeareth by <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> following words, where he ſaith:</p>
+            <p>
+               <hi>So I tooke the chiefe of your tribes, wiſe men and knowne, and made them heads over you, Captains over thouſands, and Captaines over hundreds, and Captaines over fifties, and Captaines over tennes.—And officers amongſt your Tribes. And I charged your Judges at that time</hi> (viz. at the time of their approbation by him) ſay<g ref="char:EOLhyphen"/>ing, <hi>Heare the cauſes between your brethren, and judge righte<g ref="char:EOLhyphen"/>ouſly betwixt every man and his brother, and the ſtranger that is with him. Yee ſhall not reſpect perſons in judgement, but you ſhall hear the ſmall as well as the great; Yee ſhall not be afraid of the face of man, for the judgement is Gods: And the cauſe that is too hard for you, bring it unto me, and I will heare it. And</hi> (ſaith he) <hi>I com<g ref="char:EOLhyphen"/>manded you at that time all that yee ſhould doe:</hi> So that it is cleare the people did elect the aforeſaid perſons by <hi>Moſes</hi> order, or appointment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſponſ. </seg>
+               </label> 
+               <hi>Moſes</hi> then by your owne confeſſion had the ordering and diſpoſing of all things, both as the Congregation of <hi>Iſrael</hi> did conſiſt in Marſhall and Civill capacity. And as to your collection from <hi>Deut.</hi> 1. 13. I muſt tell you that the caſe is now otherwiſe with us, then it was with <hi>Iſrael,</hi> for that
+<pb n="24" facs="tcp:166528:14"/> Congregation were at that time all unanimus, which you very well know wee are not. Againe, it is not rationall to conceive that the mixed multitudes had any hand in the aforeſaid Election.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Wee may then according to your former expreſſion, reject thoſe whom you terme the mixed Multitude, <hi>viz.</hi> the Grand, and Demy Cavaliers. And if ſo, what is there then to ob<g ref="char:EOLhyphen"/>ſtruct, but that our <hi>Moſes</hi> may give order for a New Election with all poſſible ſpeed that may be.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſpond. </seg>
+               </label> Suppoſe wee ſhould not admit the aforeſaid mixed mul<g ref="char:EOLhyphen"/>titude, yet there being ſo many various Opinions or Judge<g ref="char:EOLhyphen"/>ments amongſt our ſelves, and in as much as every of theſe intereſts, will endeavour to promote themſelves, I therefore judge it a moſt dangerous attempt to deſire ſuch an Electi<g ref="char:EOLhyphen"/>on as you ſo thirſt for, not that I doe in the leaſt goe about for any baſe or ſiniſter end (as ſome may deeme I doe) or any wayes in the leaſt to ſtirre up ſtrife amongſt us, the Lord before whom I ſpeake it, knoweth that I lye not. And there<g ref="char:EOLhyphen"/>fore if any one ſhall judge ſo of my ſayings, they do as much injury as <hi>Alexander</hi> did <hi>Paul,</hi> and for which the Lord will one day reward them. But meerly out of the apparent ruine that I ſee ſtands before ſuch an Enterpriſe. And therefore my humble requeſt is that the Lord would ſo operate by his Spi<g ref="char:EOLhyphen"/>rit upon all our affections (who claime an intereſt in the benefits that doe accrew unto us by the marvellous Acts of providence) that wee would all unanimouſly rely ſtill upon the ſame providence, as alſo inſtrumentally upon him, <hi>(viz.</hi> our preſent Deliverer, Generall, and Judge) whom the Lord hath been pleaſed to make uſe of, as formerly hath been re<g ref="char:EOLhyphen"/>lated unto you. And not in the leaſt diſtruſt him, as eyther ambitious, or unfaithfull to us, but rather endeavour with all our might to ſtrengthen his weak hands, and feeble knees, under ſo great a burthen, which out of his father-like affecti<g ref="char:EOLhyphen"/>on he hath taken upon him, and that by incouraging him to perſevere in the worke of the Lord; as alſo according to his late requeſt, that we may invocate the Great and Omnipo<g ref="char:EOLhyphen"/>tent Jehovah in his behalfe, to the end he may firſt be ac<g ref="char:EOLhyphen"/>quainted, <hi>what he is to doe,</hi> and then that the ſame God would alſo give him <hi>power</hi> to put the ſame <hi>in execution,</hi> to the glory
+<pb n="25" facs="tcp:166528:14"/> of the ſame God, and the mutuall comfort of us his childre and ſervants, which that he would be pleaſed to grant, is the earneſt requeſt of the meaneſt of his and your ſervants,</p>
+            <closer>
+               <signed>JOHN SPITTLEHOUSE.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript. <hi>Luk.</hi> 2. 13, 14. and <hi>Rev.</hi> 19. 1. &amp;c.</head>
+            <p>
+               <hi>And ſodainly there was with the Angel a multitude of the hea<g ref="char:EOLhyphen"/>venly hoaſt prayſing God, and ſaying, Glory to God in the higheſt, and on earth peace, good will towards men.</hi>
+            </p>
+            <p>
+               <hi>And after theſe things I heard a great voyce of much people in heaven, ſaying,</hi> Allelujah, <hi>ſalvation, and glory, and honour, and power unto the Lord our God: For true and righteous are his judge<g ref="char:EOLhyphen"/>ments; for he hath judged the great whore, which did corrupt the earth with her fornications, and bath avenged the blood of his ſer<g ref="char:EOLhyphen"/>vants at her hand. And againe they ſaid Alleluja, and her ſmoke roſe up for ever and ever. And the foure and twenty Elders, and the foure Beaſts fell downe and worſhipped God that ſate on the Throne, ſaying,</hi> Amen, Alleluja. <hi>And a voyce came out of the Throne, ſaying, Praiſe our God all yee his ſervants, and yee that feare him, both ſmall and great. And I heard as it were the voyce of a great multitude, and as the voyce of many waters, and as the voyce of mighty thunderings, ſaying,</hi> Alleluja, <hi>for the Lord God omnipotent reigneth. Let us be glad and rejoyce, and give honour to him, for the marriage of the Lamb is come, and his wife hath made her ſelfe ready. And to her was granted, that ſhe ſhould be arrayed in fine linnen, cleane and white, for the fine linnen is the righteouſneſſe of Saints. And he ſaid unto me, write, Bleſſed are they that are called to the marriage-ſupper of the Lamb. And he ſaid unto mee, theſe are the ſayings of God. And I fell at his feet to worſhip him: And he ſaid unto mee, ſee thou doe it not: I am thy fellow-ſervant, and of thy brethren, that have the teſtimonies of Ieſus; worſhip God, for the teſtimony of Ieſus is the ſpirit of propheſie.</hi>
+            </p>
+            <p>
+               <hi>He that hath eares to heare, let him heare.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
